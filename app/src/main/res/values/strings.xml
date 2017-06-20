@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageShow</string>
+    <string name="delete_text">删除</string>
+    <string name="favor_text">收藏</string>
+</resources>
